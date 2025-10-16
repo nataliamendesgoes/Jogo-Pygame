@@ -38,3 +38,8 @@ Descrevo abaixo as pastas presentes no workspace e o propósito de cada uma (con
 ## Comportamento de áudio
 - O menu tem sua trilha (`audio_jogo`) e o jogo tem outra (`audio_inicio`).
 - O botão de volume alterna entre mudo e som, aplicando o estado para todas as faixas carregadas.
+
+## Jogabilidade
+
+![Tela Jogo](image.png)
+  
