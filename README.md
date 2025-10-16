@@ -27,14 +27,9 @@ Descrevo abaixo as pastas presentes no workspace e o propósito de cada uma (con
 - `images/` — coloque aqui todos os sprites e imagens do jogo (personagem, monstros, corações, estrelas, tiles `chao` e `parede`, ícones de volume/saída, etc.). Os nomes usados no código são, por exemplo: `personagem1.png`, `personagem2.png`, `personagem5.png`, `personagem4.png`, `monstro_1.png`, `estrela_cheia.png`, `estrela_vazia.png`, `coracao_cheio.png`, `coracao_vazio.png`, `chao.png`, `parede.png`, `volume.png`, `mudo.png`, `sair.png`.
 
 - `sounds/` (ou `audio/`) — coloque aqui os arquivos de som e música: `audio_jogo.ogg` (música do menu), `audio_inicio.ogg` (música do jogo) e efeitos como `eep.wav`.
-
-- `PNG/`, `Default/`, `Transparent/`, `Vector/`, etc. — pastas que contêm recursos adicionais e variações de sprites e tiles (conforme sua organização local). Podem ser mantidas como backup ou reorganizadas para `images/`.
-
-- `Tilemap/`, `Tiled/` — mapas e tilesets usados no projeto (TMX, TSX, Tilesheets). Úteis se quiser migrar para um renderer que carregue TMX.
-
+  
 - `testePython.py` — arquivo principal do jogo (Pygame Zero). Contém a lógica do menu, geração procedural do mapa, entidades (player, monstros, estrelas), HUD e controles de áudio.
 
-- `license.txt` — licença do projeto (se houver).
 
 ## Controles
 - Setas do teclado: mover o personagem (esquerda/direita/cima/baixo).
