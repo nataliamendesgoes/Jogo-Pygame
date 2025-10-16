@@ -38,18 +38,3 @@ Descrevo abaixo as pastas presentes no workspace e o propósito de cada uma (con
 ## Comportamento de áudio
 - O menu tem sua trilha (`audio_jogo`) e o jogo tem outra (`audio_inicio`).
 - O botão de volume alterna entre mudo e som, aplicando o estado para todas as faixas carregadas.
-
-## Personalização e próximos passos (ideias)
-- Implementar zoom/câmera que siga o jogador.
-- Adicionar animação completa do personagem (várias frames por direção).
-- Salvar o progresso ou o recorde localmente.
-- Adicionar mais tipos de monstros e itens.
-
----
-
-Se quiser, eu posso:
-- Gerar thumbnails ou assets faltantes (estrelas, corações) em SVG/PNG básicos.
-- Mover recursos dispersos para `images/` e ajustar o código.
-- Criar um `requirements.txt` com dependências exatas.
-
-Quer que eu finalize o TODO (marcar README completo) e adicione o `README.md` ao repositório (commit)?
